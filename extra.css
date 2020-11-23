@@ -1,0 +1,7 @@
+@import url(https://cdn.wardzhou.art/lib/font.css);
+body { font-family:'IBM Plex Mono', 'Noto Sans SC' }
+h1, h2, h3 {
+  font-family: 'Noto Sans SC';
+  font-weight: normal;
+}
+.remark-code, .remark-inline-code { font-family: 'Source Code Pro', 'Lucida Console', Monaco, monospace; }

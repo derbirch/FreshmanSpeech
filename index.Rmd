@@ -1,0 +1,284 @@
+---
+title: "Weave of Magic"
+subtitle: "A Story to Freshman"
+author: "Nanyu Zhou"
+institute: "USST"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: ["default.css","extra.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: left
+
+# Nanyu Zhou
+University of Shanghai for Science and Technology
+</br>**Communication**
+</br>Postgraduate recommendation to Shanghai University
+</br>**Journalism and Communication**
+
+Geek, Passionate in Information-tech, Writer and Poet, Photographer, Intangible Cultural Heritager , Beginner of Computational Communication, Former Assistant Directer of SMG and Intern in The Paper Data Journalism Dept. Writer of Netease and IT Home.
+
++ Experts in Content Production
++ Graphic Design
++ Web and Client Side Development
++ Data Journalism and Data Viz
+---
+class: inverse, left, middle
+
+# What </br>is the story </br>you are expecting for......
+## Didactic? Dull? or Romantic?
+
+---
+
+# Discovery
+
+It all starts with one very question.
+
+--
+
+## What intrigues you?
+
++ Your hobby?
++ Major?
++ Other activities…
+
+--
+
+---
+class: center, middle, inverse
+
+# And it's my way…
+
+---
+
+# Hobby
+### #1 Graphy Design
++ Basic Strategy
+
++ Adobe Illustrator  <br/>Adobe Photoshop<br/>
+
+--
+
++ Part-time job from teachers or others<br/>
+
+--
+
++ IT FINALLY COMES TO AN END
+
+---
+# Hobby
+### #2 Tech Thing
++ WEB(HTML,CSS,JS,ASP.NET,etc)
+
++ Server Maintain&Linux<br/> Docker<br/>
+
+--
+
++ Start my own website and write blog<br/><br/>
+<img src="https://cdn.wardzhou.art/img/blogQR.png" width="100">
+---
+# Hobby
+### #3 Linguistic Skills
++ Read(literature mostly)
+
++ Write(Play,Poems,Prose,etc)
+
++ Translation(*Promises*,Tech article,etc)
+
+---
+
+
+### Prologue
+My friend, my enemy and my dearest lover<br/>
+I have gone so far<br/>
+Away from you<br/>
+Away from me<br/>
+
+Here I left a corner, a universe and a grave<br/>
+For me and cluster like me<br/>
+Where to shelter<br/>
+To bury in peace<br/>
+
+
+---
+
+### 海蚀崖
+海水退去<br/>
+像是个熟睡的孩子<br/>
+伴着微微的鼾声<br/>
+缓缓呼吸
+
+海风不顾地<br/>
+撞击着峻峭的崖岸<br/>
+带着剥落下的尘土<br/>
+满足地欢呼<br/>
+
+风说：<br/>
+今天我又带走了一部分你<br/>
+明天、后天、总有一天……
+
+崖岸消逝了<br/>
+曾经义无反顾的<br/>
+还在，呼——呼——
+
+
+---
+
+# Major
+### #1 Photography&Filming
++ Photography
+  + Macro Photography
+  + Street Photography
+  + Portal
+  
++ Photo editing & Lightroom
+
++ Video editing & Pr
+
+--
+
+<img src="/img/blog_photoQR.png" width="100">
+<img src="/img/xunhuanFilmQR.png" width="100">
+
+
+---
+
+# Major
+### #2 Media&Marketing
++ Wechat official account ant etc
+  
++ Public Relationship
+
++ Marketing
+
++ ……
+
+---
+
+# Major
+### #3 Research
++ Paper
+  
++ Research Program
+
++ Computational Communication
+
+---
+class: inverse, middle, center
+
+# Spell Out!
+
+---
+
+# Work
+### #2018 SMG Assitant Director
+### #2019 Start-up Company
+### #2020 The Paper Data Journalism dept.
+### #2020 Netease Data Journalism sector
+### #20XX Freelance & Part - time Jobs
+
+---
+
+# Work
+### 2018 SMG Assitant Director
+
+Shanghai Television spring festival program
+
+**Special Producer Team**
+
+
+---
+
+# Work
+### 2019 Start-up Company
+
+All Platform Media Marketing
+
+**Marketing Dept**
+
++ Produce content on demand
+
++ Trace and Analyse Data
+
+---
+
+# Work
+### 2020 The Paper 
+
+**Data Journalism dept.**
+
++ Selection of Issue
+
++ Produce DataJournalism production(video and h5 mainly)
+
+<img src="/img/blog_worksQR.png" width="100">
+
+
+
+---
+
+# Work
+### 2020 Netease Data 
+
+**Journalism sector**
+
++ Selection of Issue
+
++ Produce DataJournalism production(video and h5 mainly)
+
++ Advertisement on Demand
+
+<img src="/img/NeteaseDoubanQR.png" width="100">
+<img src="/img/NeteaseHairlossQR.png" width="100">
+
+---
+
+# Work
+### 20XX Freelance & Part - time Jobs
+
+- 2017 - 2018 KFC Server
+- 20XX - Labor Work
+- 20xx Graphic Design
+  - Book Typesetting
+  - Poster
+  - Cover Design
+  - Banner & Thumbnail of Website
+  - Ticket & Program Brochure
+  
+- Portrait Photography
+- 2020 Freelance Writer
+
+---
+class: inverse, middle, center
+
+# The Way Ahead
+
+---
+class: middle, left
+
+### #1 Tech Reporter & Journalist
+### #2 Data Journalist
+### #3 Academic Research
+
+---
+class: middle, center
+
+# Q & A
+###What is Your Spell in Hand?
+---
+
+class: left, bottom, inverse
+
+# Weave Your Spell Today.
+
+
+<img src="/img/email.png" width="100"/>
+<img src="https://cdn.wardzhou.art/img/blogQR.png" width="100"/>
+
+**Nanyu Zhou**<br/>
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
