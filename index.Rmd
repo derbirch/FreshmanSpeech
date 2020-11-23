@@ -277,7 +277,7 @@ class: left, bottom, inverse
 # Weave Your Spell Today.
 
 
-<img src="/img/email.png" width="100"/>
+<img src="https://cdn.wardzhou.art/img/email.png" width="100"/>
 <img src="https://cdn.wardzhou.art/img/blogQR.png" width="100"/>
 
 **Nanyu Zhou**<br/>
