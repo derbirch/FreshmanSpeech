@@ -57,7 +57,7 @@ class: center, middle, inverse
 ---
 
 # Hobby
-### #1 Graphy Design
+### #1 Graphy Design 
 + Basic Strategy
 
 + Adobe Illustrator  <br/>Adobe Photoshop<br/>
@@ -142,8 +142,8 @@ To bury in peace<br/>
 
 --
 
-<img src="/img/blog_photoQR.png" width="100">
-<img src="/img/xunhuanFilmQR.png" width="100">
+<img src="https://cdn.wardzhou.art/img/blog_photoQR.png" width="100">
+<img src="https://cdn.wardzhou.art/img/xunhuanFilmQR.png" width="100">
 
 
 ---
@@ -216,7 +216,7 @@ All Platform Media Marketing
 
 + Produce DataJournalism production(video and h5 mainly)
 
-<img src="/img/blog_worksQR.png" width="100">
+<img src="https://cdn.wardzhou.art/img/blog_worksQR.png" width="100">
 
 
 
@@ -233,8 +233,8 @@ All Platform Media Marketing
 
 + Advertisement on Demand
 
-<img src="/img/NeteaseDoubanQR.png" width="100">
-<img src="/img/NeteaseHairlossQR.png" width="100">
+<img src="https://cdn.wardzhou.art/img/NeteaseDoubanQR.png" width="100">
+<img src="https://cdn.wardzhou.art/img/NeteaseHairlossQR.png" width="100">
 
 ---
 
